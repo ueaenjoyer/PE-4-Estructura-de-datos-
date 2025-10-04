@@ -1,0 +1,14 @@
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\bin\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.exe
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\bin\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.deps.json
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\bin\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.runtimeconfig.json
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\bin\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.dll
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\bin\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.pdb
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.AssemblyInfoInputs.cache
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.AssemblyInfo.cs
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.dll
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\refint\Proyecto-Estructuras-Datos-Grafos.dll
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.pdb
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\Proyecto-Estructuras-Datos-Grafos.genruntimeconfig.cache
+C:\Users\Paul\Proyecto-Estructuras-Datos-Grafos\obj\Debug\net10.0\ref\Proyecto-Estructuras-Datos-Grafos.dll
